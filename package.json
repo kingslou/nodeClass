@@ -1,0 +1,18 @@
+{
+  "name": "ieasy",
+  "version": "1.0.0",
+  "description": "node Lesson",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "superagent": "^3.7.0",
+    "utility": "^1.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
